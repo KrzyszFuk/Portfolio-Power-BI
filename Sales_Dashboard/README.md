@@ -21,6 +21,8 @@ Source: CSV – survey and behavioural marketing data
 Volume: 2,240 records, 28 columns
 Scope: customer demographics, purchasing behaviour,
 campaign responses, product categories
+Note: The report opens with loaded sample data. Data refresh may require access to the original source.
+
 
 Analysis Scope
 Campaign performance vs. customer segments and
