@@ -2,9 +2,9 @@ HR Report – Power BI Data Analysis Project
 Type: Educational / Portfolio Project
 
 Key Business Questions
-•How do social and professional aspects of headcount contribute to the current workforce structure of the analyzed company?
-•What is the level of employee retention during the company’s operations?How has employee turnover impacted the company?
-•Power of data visualization equips HR teams with the knowledge and allow to identify patterns, analyze attrition trends and develop targeted startegies for talent retention?
+How do social and professional aspects of headcount contribute to the current workforce structure of the analyzed company?
+What is the level of employee retention during the company’s operations?How has employee turnover impacted the company?
+Power of data visualization equips HR teams with the knowledge and allow to identify patterns, analyze attrition trends and develop targeted startegies for talent retention?
 
 Data Overview
 The analysis is based on two datasets containing 4,138 unique employee records. The first dataset includes employment history, while the second covers social and demographic information.
